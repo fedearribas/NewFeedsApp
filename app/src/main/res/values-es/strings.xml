@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clarín Reader</string>
+    <string name="no_connection">No hay conexión a Internet.</string>
+    <string name="no_news">No se encontraron noticias.</string>
+</resources>
